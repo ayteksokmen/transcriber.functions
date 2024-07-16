@@ -1,2 +1,2 @@
 # transcriber.functions
- As a backend for Audio Transcription App with Firebase Cloud Functions to connect Open AI API
+ This repository contains Firebase Cloud Functions to handle audio transcription requests using the Whisper API.
